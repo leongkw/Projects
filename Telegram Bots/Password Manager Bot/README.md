@@ -11,3 +11,4 @@ Future improvements/Work in progress:
 2. Read/write functionality to an actual database like AWS DynamoDB
 3. Better presentation of information retrieved from Google Sheets
 4. Error handling with Try-Except
+5. Multi-user functionality
