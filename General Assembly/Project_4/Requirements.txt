@@ -1,0 +1,60 @@
+1. Determine industry factors that are most important in predicting salary
+- Unsupervised? or See coefficients from model
+
+2. Determine factors that distinguish job categories/titles frome ach other
+- I.e. Can required skills accurately predict job title
+- Probably classification problem, skills are features, title is the target
+
+
+GOAL:
+Scrap data from jobsite aggregator - Use scrappy/API
+
+
+Q1:
+- Build classifcation/regression model
+- Use features like location, title, summary of job
+- Regression (estimating listed salary amounts)
+- Classification (Create labels from these salary amounts)
+
+Use ensemble methods/decision trees/PCA/clustering/SVM
+
+* Most listing do not come with salary info, need to extrapolate or predict
+expected salaries
+
+Q2:
+- Identify features in data related to job postings that can distinguish job
+tiles from each other
+- I.e. what components of a job posting distinguish data scientists from
+other data jobs
+- What features are important for distinguishing junior vs senior
+- Do requirements vary significantly with industry 
+
+- Can end up making diff models to answer diff questions
+- Explain hypothesis and framing, feature engineering, what target variables are
+
+
+
+												
+1. Scrape and prepare your own data.
+
+2. **Create and compare at least two models for each section**. One of the two models
+should be a decision tree or ensemble model. 
+The other can be a classifier or regression of your 
+choosing (e.g. Ridge, logistic regression, KNN, SVM, etc).
+   - Section 1: Job Salary Trends
+   - Section 2: Job Category Factors
+
+3. Prepare a polished Jupyter Notebook with your analysis 
+for a peer audience of data scientists. 
+   - Make sure to clearly describe and label each section.
+   - Comment on your code so that others could, in theory, 
+replicate your work.
+
+4. A brief writeup in an executive summary, written for a
+ non-technical audience.
+   - Writeups should be at least 500-1000 words,
+ defining any technical terms, explaining your approach, 
+as well as any risks and limitations.
+
+
+

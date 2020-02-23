@@ -1,0 +1,580 @@
+Yes, I have settled my payment with my Consultant.
+Yes, I have made my payment with my Consultant.
+I will make payment on DDMM.
+How to make payment?
+Is there any late payment fee?
+Can I request for an extension of fee payment?
+Yes, I want to meet with my Consultant.
+How do I pay with my SFC?
+When must I submit my SFC?
+No, I am good.
+Yes, I need help.
+Yes, I need assistance.
+Yes, I want to meet the Mentor.
+How do I read the timetable?
+When and how to take attendance? (includes ON campus and off campus)
+How to contact the mentor if I wanted to get their support online?
+How many types of communication channel to contact mentor?
+I am having an issue in accessing the e-content in LMS.
+I am having difficulty in understanding the e-content.
+I am having difficulty in understanding the course content.
+Is it compulsory to complete the e-learning?
+Till which date I can complete e-learning?
+What if I do not complete the e-learning on time? 
+I do not have time to complete my MCQs.
+How many times can I attempt the MCQs?
+What should I do?
+Till which date I can complete MCQs?
+What if I do not complete the MCQs on the time? 
+What if I do not attempt the MCQs?
+Is there is any marking for MCQs?
+Where can I see my progress?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+What is the next step?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I am having an issue in accessing the e-content in LMS.
+I am having difficulty in understanding the e-content.
+I am having difficulty in understanding the course content.
+Is it compulsory to complete the e-learning?
+Till which date I can complete e-learning?
+What if I do not complete the e-learning on time? 
+I do not have time to complete my MCQs.
+How many times can I attempt the MCQs?
+What should I do?
+Till which date I can complete MCQs?
+What if I do not complete the MCQs on the time? 
+What if I do not attempt the MCQs?
+Is there is any marking for MCQs?
+Where can I see my progress?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+What is the next step?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I am having an issue in accessing the e-content in LMS.
+I am having difficulty in understanding the e-content.
+I am having difficulty in understanding the course content.
+Is it compulsory to complete the e-learning?
+Till which date I can complete e-learning?
+What if I do not complete the e-learning on time? 
+I do not have time to complete my MCQs.
+How many times can I attempt the MCQs?
+What should I do?
+Till which date I can complete MCQs?
+What if I do not complete the MCQs on the time? 
+What if I do not attempt the MCQs?
+Is there is any marking for MCQs?
+Where can I see my progress?
+When is my Flipped Class?
+What should I prepare for my Flipped Class?
+What if I cannot attend the Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+What is the next step?
+When is my Flipped Class?
+What should I prepare for my Flipped Class?
+What if I cannot attend the Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I do not have time to complete my Assignment.
+How many times can I upload the Assignments?
+Who will score my assignment?
+When can I see my assignment score?
+Till which date I can complete Assignments?
+What if I do not complete the assignments on the time? 
+What if I do not attempt the assignments?
+Where can I see my progress?
+What should I do if I did not score 70% for my assignment?
+Who can I approach to reset my assignment?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+What is the next step?
+When is my next Flipped Class?
+What should I prepare for my next Flipped Class?
+What if I cannot attend the next Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I do not have time to complete my Assignment.
+How many times can I upload the Assignments?
+Who will score my assignment?
+When can I see my assignment score?
+Till which date I can complete Assignments?
+What if I do not complete the assignments on the time? 
+What if I do not attempt the assignments?
+Where can I see my progress?
+What should I do if I did not score 70% for my assignment?
+Who can I approach to reset my assignment?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+What is the next step?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I am having an issue in accessing the e-content in LMS.
+I am having difficulty in understanding the e-content.
+I am having difficulty in understanding the course content.
+Is it compulsory to complete the e-learning?
+Till which date I can complete e-learning?
+What if I do not complete the e-learning on time? 
+I do not have time to complete my MCQs.
+How many times can I attempt the MCQs?
+What should I do?
+Till which date I can complete MCQs?
+What if I do not complete the MCQs on the time? 
+What if I do not attempt the MCQs?
+Is there is any marking for MCQs?
+Where can I see my progress?
+I do not have time to complete my Assignment.
+How many times can I upload the Assignments?
+Who will score my assignment?
+When can I see my assignment score?
+Till which date I can complete Assignments?
+What if I do not complete the assignments on the time? 
+What if I do not attempt the assignments?
+Where can I see my progress?
+What should I do if I did not score 70% for my assignment?
+Who can I approach to reset my assignment?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+What is the next step?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I am having an issue in accessing the e-content in LMS.
+I am having difficulty in understanding the e-content.
+I am having difficulty in understanding the course content.
+Is it compulsory to complete the e-learning?
+Till which date I can complete e-learning?
+What if I do not complete the e-learning on time? 
+I do not have time to complete my MCQs.
+How many times can I attempt the MCQs?
+What should I do?
+Till which date I can complete MCQs?
+What if I do not complete the MCQs on the time? 
+What if I do not attempt the MCQs?
+Is there is any marking for MCQs?
+Where can I see my progress?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+What is the next step?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I am having an issue in accessing the e-content in LMS.
+I am having difficulty in understanding the e-content.
+I am having difficulty in understanding the course content.
+Is it compulsory to complete the e-learning?
+Till which date I can complete e-learning?
+What if I do not complete the e-learning on time? 
+I do not have time to complete my MCQs.
+How many times can I attempt the MCQs?
+What should I do?
+Till which date I can complete MCQs?
+What if I do not complete the MCQs on the time? 
+What if I do not attempt the MCQs?
+Is there is any marking for MCQs?
+Where can I see my progress?
+When is my Flipped Class?
+What should I prepare for my Flipped Class?
+What if I cannot attend the Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+What is the next step?
+When is my Flipped Class?
+What should I prepare for my Flipped Class?
+What if I cannot attend the Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I do not have time to complete my Assignment.
+How many times can I upload the Assignments?
+Who will score my assignment?
+When can I see my assignment score?
+Till which date I can complete Assignments?
+What if I do not complete the assignments on the time? 
+What if I do not attempt the assignments?
+Where can I see my progress?
+What should I do if I did not score 70% for my assignment?
+Who can I approach to reset my assignment?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+What is the next step?
+When is my next Flipped Class?
+What should I prepare for my next Flipped Class?
+What if I cannot attend the next Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I do not have time to complete my Assignment.
+How many times can I upload the Assignments?
+Who will score my assignment?
+When can I see my assignment score?
+Till which date I can complete Assignments?
+What if I do not complete the assignments on the time? 
+What if I do not attempt the assignments?
+Where can I see my progress?
+What should I do if I did not score 70% for my assignment?
+Who can I approach to reset my assignment?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+What is the next step?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I am having an issue in accessing the e-content in LMS.
+I am having difficulty in understanding the e-content.
+I am having difficulty in understanding the course content.
+Is it compulsory to complete the e-learning?
+Till which date I can complete e-learning?
+What if I do not complete the e-learning on time? 
+I do not have time to complete my MCQs.
+How many times can I attempt the MCQs?
+What should I do?
+Till which date I can complete MCQs?
+What if I do not complete the MCQs on the time? 
+What if I do not attempt the MCQs?
+Is there is any marking for MCQs?
+Where can I see my progress?
+I do not have time to complete my Assignment.
+How many times can I upload the Assignments?
+Who will score my assignment?
+When can I see my assignment score?
+Till which date I can complete Assignments?
+What if I do not complete the assignments on the time? 
+What if I do not attempt the assignments?
+Where can I see my progress?
+What should I do if I did not score 70% for my assignment?
+Who can I approach to reset my assignment?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+What is the next step?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I am having an issue in accessing the e-content in LMS.
+I am having difficulty in understanding the e-content.
+I am having difficulty in understanding the course content.
+Is it compulsory to complete the e-learning?
+Till which date I can complete e-learning?
+What if I do not complete the e-learning on time? 
+I do not have time to complete my MCQs.
+How many times can I attempt the MCQs?
+What should I do?
+Till which date I can complete MCQs?
+What if I do not complete the MCQs on the time? 
+What if I do not attempt the MCQs?
+Is there is any marking for MCQs?
+Where can I see my progress?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+What is the next step?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I am having an issue in accessing the e-content in LMS.
+I am having difficulty in understanding the e-content.
+I am having difficulty in understanding the course content.
+Is it compulsory to complete the e-learning?
+Till which date I can complete e-learning?
+What if I do not complete the e-learning on time? 
+I do not have time to complete my MCQs.
+How many times can I attempt the MCQs?
+What should I do?
+Till which date I can complete MCQs?
+What if I do not complete the MCQs on the time? 
+What if I do not attempt the MCQs?
+Is there is any marking for MCQs?
+Where can I see my progress?
+When is my Flipped Class?
+What should I prepare for my Flipped Class?
+What if I cannot attend the Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+What is the next step?
+When is my Flipped Class?
+What should I prepare for my Flipped Class?
+What if I cannot attend the Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I do not have time to complete my Assignment.
+How many times can I upload the Assignments?
+Who will score my assignment?
+When can I see my assignment score?
+Till which date I can complete Assignments?
+What if I do not complete the assignments on the time? 
+What if I do not attempt the assignments?
+Where can I see my progress?
+What should I do if I did not score 70% for my assignment?
+Who can I approach to reset my assignment?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+What is the next step?
+When is my next Flipped Class?
+What should I prepare for my next Flipped Class?
+What if I cannot attend the next Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I do not have time to complete my Assignment.
+How many times can I upload the Assignments?
+Who will score my assignment?
+When can I see my assignment score?
+Till which date I can complete Assignments?
+What if I do not complete the assignments on the time? 
+What if I do not attempt the assignments?
+Where can I see my progress?
+What should I do if I did not score 70% for my assignment?
+Who can I approach to reset my assignment?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+What is the next step?
+When is my next Flipped Class?
+What should I prepare for my next Flipped Class?
+What if I cannot attend the next Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+I do not have time to complete my Assignment.
+How many times can I upload the Assignments?
+Who will score my assignment?
+When can I see my assignment score?
+Till which date I can complete Assignments?
+What if I do not complete the assignments on the time?
+What if I do not attempt the assignments?
+Where can I see my progress?
+What should I do if I did not score 70% for my assignment?
+Who can I approach to reset my assignment?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+What is the next step?
+When is my next Flipped Class?
+What should I prepare for my next Flipped Class?
+What if I cannot attend the next Flipped Class. What can I do?
+Is there any make-up Flipped Class?
+Do I have to submit my assignment during Flipped Class?
+Is it compulsory to attend the mentoring session?
+I am not able to attend the mentoring session.
+How was the attendance capture for the mentoring session?
+I have no issue with my assignment. Can I skip the mentoring session?
+I have completed my assignment in advance. Can I skip the mentoring session?
+Why I can’t log into the Learn-On-Demand?
+Where do I upload the lab assignment?
+Why can’t I see the upload button in the LMS?
+Why can’t I launch the lab?
+Where do I get the template?
+What is the site to access my e-book?
+Can I download or print the e-book?
+Do you have a hard copy of the e-book?

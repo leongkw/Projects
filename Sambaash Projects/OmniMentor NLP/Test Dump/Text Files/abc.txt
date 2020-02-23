@@ -1,0 +1,67 @@
+__label__adminpayment I  have  settled  my  payment  with  my  Consultant.
+__label__adminpayment I  have  made  my  payment  with  my  Consultant.
+__label__adminpayment When  do  I  have  to  make  payment?
+__label__adminpayment How  do  I  make  payment?
+__label__adminpayment Is  there  any  late  payment  fee?
+__label__adminpayment Can  I  request  for  an  extension  of  payment?
+__label__adminconsultation I  want  to  meet  with  my  Consultant.
+__label__adminpayment How  do  I  pay  with  my  Skills  Future  Credits?
+__label__adminpayment How  do  I  pay  with  my  SFC?
+__label__adminpayment When  must  I  submit  my  SFC?
+__label__admingeneral No,  I  do  not  need  help.
+__label__admingeneral Yes,  I  need  help.
+__label__admingeneral Yes,  I  need  assistance.
+__label__adminconsultation Yes,  I  want  to  meet  the  Mentor.
+__label__admingeneral How  do  I  read  the  timetable?
+__label__admingeneral How  does  the  attendance  system  work?
+__label__admingeneral How  do  we  take  attendance?
+__label__admingeneral How  does  the  attendance  work?
+__label__adminconsultation When  can  I  contact  my  mentor?
+__label__adminconsultation How  do  I  contact  my  mentor  for  online  support?
+__label__adminconsultation What  is  my  mentor's  email  address?
+__label__progress I  am  having  an  issue  in  accessing  the  e-content  in  LMS.
+__label__progress I  am  having  an  issue  in  accessing  the  materials  in  LMS.
+__label__progress I  am  having  difficulty  in  understanding  the  materials.
+__label__progress I  am  having  difficulty  in  understanding  the  e-content.
+__label__progress I  am  having  difficulty  in  understanding  the  course  content.
+__label__progress Is  it  compulsory  to  complete  the  elearning?
+__label__progress When  do  I  have  to  complete  elearning  by?
+__label__progress What  if  I  do  not  complete  the  elearning  on  time?  
+__label__progress I  do  not  have  time  to  complete  my  MCQ.
+__label__progress How  many  times  can  I  attempt  the  MCQ?
+__label__progress What  should  I  do?
+__label__progress When  do  I  have  to  complete  the  MCQ  by?
+__label__progress What  if  I  do  not  complete  the  MCQs  on  the  time?  
+__label__progress What  if  I  do  not  attempt  the  MCQs?
+__label__progress Is  there  is  any  marking  for  MCQs?
+__label__progress Where  can  I  see  my  progress?
+__label__ebook What  is  the  site  to  access  my  ebook?
+__label__ebook Can  I  download  or  print  the  ebook?
+__label__ebook Do  you  have  a  hard  copy  of  the  ebook?
+__label__nextstep What  is  the  next  step?
+__label__fclass When  is  my  Flipped  Class?
+__label__fclass What  should  I  prepare  for  my  Flipped  Class?
+__label__fclass What  do  I  do  if  I  cannot  attend  the  Flipped  Class?
+__label__fclass Is  there  any  make-up  Flipped  Class?
+__label__fclass Do  I  have  to  submit  my  assignment  during  Flipped  Class?
+__label__aprogress I  do  not  have  time  to  complete  my  Assignment.
+__label__aprogress How  many  times  can  I  upload  the  Assignments?
+__label__aprogress Who  will  score  my  assignment?
+__label__aprogress When  can  I  see  my  assignment  score?
+__label__aprogress When  do  I  have  to  complete  my  assignments  by?
+__label__aprogress What  if  I  do  not  complete  the  assignments  on  the  time?  
+__label__aprogress What  if  I  do  not  attempt  the  assignments?
+__label__aprogress Where  can  I  see  my  progress?
+__label__aprogress What  should  I  do  if  I  did  not  pass  assignment?
+__label__aprogress Who  can  I  approach  to  reset  my  assignment?
+__label__access Why  I  can’t  log  into  the  Learn-On-Demand?
+__label__access Where  do  I  upload  the  lab  assignment?
+__label__access Why  can’t  I  see  the  upload  button  in  the  LMS?
+__label__access Why  can’t  I  launch  the  lab?
+__label__access Where  do  I  get  the  template?
+__label_mentoring Is  it  compulsory  to  attend  the  mentoring  session?
+__label_mentoring I  am  not  able  to  attend  the  mentoring  session.
+__label_mentoring How  is  my  attendance  recorded  for  the  mentoring  session?
+__label_mentoring Can  I  skip  the  mentoring  session  if  I  have  no  problems  with  my  assignment?
+__label_mentoring Can  I  skipo  the  mentoring  session  if  I  have  completed  my  assignment  in  advance?
+__label__adminconsultation What  is  my  mentor's  phone  number?
