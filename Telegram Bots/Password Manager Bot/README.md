@@ -1,18 +1,25 @@
 Introduction
+
 Password Manager Bot is a Telegram Bot is a bot that allows you to store your username and passwords in a database, then retrieve it whenever you need it.
+
 The purpose of this bot is to mainly as a platform where I can apply new coding knowledge to. 
 
 
 
 
 29th February 2020
+
 Password Manager Bot is now hosted live on a free PythonAnywhere account.
 
 You may test Password Manager Bot at the following URL https://t.me/PasswordManageBot.
+
 Please be gentle with the bot as there is an extremely limited amount of available compute time on a free PythonAnywhere account.
+
 If the bot is down, do drop me a message at https://t.me/fridaynite to restart the bot. 
 
+
 Version 0
+
 Dependencies:
 1. Google Sheets API to be enabled on Google Develop Console
 2. pip install telepot
@@ -28,6 +35,7 @@ Future improvements/Work in progress:
 
 
 Version 0.1
+
 Dependencies:
 1. pip install telepot
 2. pip install pandas
