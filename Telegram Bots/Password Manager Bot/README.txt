@@ -38,7 +38,7 @@ Dependencies:
 4. Telegram
 
 Updates:
-- Shift from Google Sheets to Sqlite for databse
+- Shift from Google Sheets to Sqlite for database
 - Added a user log in verfication process
 - Added a log out function
 - Added a delete user function
