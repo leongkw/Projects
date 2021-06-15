@@ -1,0 +1,264 @@
+﻿label,prompt,response
+__label__adminpayment,i have settled my payment with my consultant.,Thank you. We will inform our Finance and your account shall be updated once verified.
+__label__adminpayment,i have made my payment with my consultant.,Thank you. We will inform our Finance and your account shall be updated once verified.
+__label__adminpayment,i paid my course fees already.,Thank you. We will inform our Finance and your account shall be updated once verified.
+__label__adminpayment,i have paid my course fees.,Thank you. We will inform our Finance and your account shall be updated once verified.
+__label__adminpayment,my course fees have been paid.,Thank you. We will inform our Finance and your account shall be updated once verified.
+__label__adminpayment,course fees paid already.,Thank you. We will inform our Finance and your account shall be updated once verified.
+__label__adminpayment,i paid course fees already.,Thank you. We will inform our Finance and your account shall be updated once verified.
+__label__adminpayment,i have settled my fees with my consultant already.,Thank you. We will inform our Finance and your account shall be updated once verified.
+__label__adminpayment,when do i have to make payment?,You have to make the payment before your 1st Flipped Class. Please contact your Sales Executive.
+__label__adminpayment,when do i have to pay my course fees?,You have to make the payment before your 1st Flipped Class. Please contact your Sales Executive.
+__label__adminpayment,when to make payment?,You have to make the payment before your 1st Flipped Class. Please contact your Sales Executive.
+__label__adminpayment,when are course fees due?,You have to make the payment before your 1st Flipped Class. Please contact your Sales Executive.
+__label__adminpayment,how do i make payment?,You have to make the payment before your 1st Flipped Class. Please contact your Sales Executive.
+__label__adminpayment,how can i pay my course fees?,You have to make the payment before your 1st Flipped Class. Please contact your Sales Executive.
+__label__adminpayment,what are the steps to pay my course fees?,"Payment can be made via Giro/ TT/ Cheque/ Paynow/ Paypal, credit card/NETS, cash, PSEA, SkillsFuture. For more information, you may refer to our Learner’s Handbook, available in Lithan’s website."
+__label__adminpayment,is there any late payment fee?,"No. There is no late payment fee. However, your access will be removed from the course content until payment is received. This may have an effect on your course progress. Your prompt payment is highly appreciated."
+__label__adminpayment,pay late got penalties?,"No. There is no late payment fee. However, your access will be removed from the course content until payment is received. This may have an effect on your course progress. Your prompt payment is highly appreciated."
+__label__adminpayment,are there any penalties for late payment of course fees?,"No. There is no late payment fee. However, your access will be removed from the course content until payment is received. This may have an effect on your course progress. Your prompt payment is highly appreciated."
+__label__adminpayment,are there any penalty fees?,"No. There is no late payment fee. However, your access will be removed from the course content until payment is received. This may have an effect on your course progress. Your prompt payment is highly appreciated."
+__label__adminpayment,can i request for an extension of payment?,"For an extension of payment, you may have to speak with your Consultant."
+__label__adminpayment,is it possible to extend due date for payment?,"For an extension of payment, you may have to speak with your Consultant."
+__label__adminpayment,can i extend my payment due date?,"For an extension of payment, you may have to speak with your Consultant."
+__label__adminpayment,i want to postpone my course fees date.,"For an extension of payment, you may have to speak with your Consultant."
+__label__adminpayment,can i pay my school fees later?,"For an extension of payment, you may have to speak with your Consultant."
+__label__adminpayment,can i pay my course fees later?,"For an extension of payment, you may have to speak with your Consultant."
+__label__adminpayment,later pay course fees can?,"For an extension of payment, you may have to speak with your Consultant."
+__label__adminpayment,later pay school fees can?,"For an extension of payment, you may have to speak with your Consultant."
+__label__adminconsultation,i want to meet with my consultant.,Thank you. We will have your Education Consultant to contact you soon.
+__label__adminconsultation,can i speak with my consultant?,Thank you. We will have your Education Consultant to contact you soon.
+__label__adminconsultation,can i talk to my consultant?,Thank you. We will have your Education Consultant to contact you soon.
+__label__adminconsultation,i want to arrange meeting with my consultant.,Thank you. We will have your Education Consultant to contact you soon.
+__label__adminconsultation,i want a quick session with my consultant.,Thank you. We will have your Education Consultant to contact you soon.
+__label__adminconsultation,i want to arrange a consultation with my consultant.,Thank you. We will have your Education Consultant to contact you soon.
+__label__adminpayment,how do i pay with my skills future credits?,"For payment via SFC, you are to place you claim via SkillFuture Credit website using your NRIC and your SingPass. Link: www.myskillsfuture.sg. A copy of the module invoice is required. You may request your LA for the invoice."
+__label__adminpayment,can i pay with skills future credits?,"For payment via SFC, you are to place you claim via SkillFuture Credit website using your NRIC and your SingPass. Link: www.myskillsfuture.sg. A copy of the module invoice is required. You may request your LA for the invoice."
+__label__adminpayment,i want to pay with skills future credits how can i do it?,"For payment via SFC, you are to place you claim via SkillFuture Credit website using your NRIC and your SingPass. Link: www.myskillsfuture.sg. A copy of the module invoice is required. You may request your LA for the invoice."
+__label__adminpayment,how do i pay with my sfc?,"For payment via SFC, you are to place you claim via SkillFuture Credit website using your NRIC and your SingPass. Link: www.myskillsfuture.sg. A copy of the module invoice is required. You may request your LA for the invoice."
+__label__adminpayment,can i pay with sfc?,"For payment via SFC, you are to place you claim via SkillFuture Credit website using your NRIC and your SingPass. Link: www.myskillsfuture.sg. A copy of the module invoice is required. You may request your LA for the invoice."
+__label__adminpayment,when is the deadline to submit my sfc?,SFC claim must be made before the start of class.
+__label__adminpayment,when is the deadline to submit my skills future credit?,SFC claim must be made before the start of class.
+__label__adminpayment,when must i submit my sfc?,SFC claim must be made before the start of class.
+__label__adminpayment,when must i submit my skills future credit?,SFC claim must be made before the start of class.
+__label__adminpayment,what date to submit sfc by?,SFC claim must be made before the start of class.
+__label__admingeneral,no i do not need help.,"Awesome! I’ll be here if you need any assistance. Otherwise, Happy Learning!"
+__label__admingeneral,don't need help.,"Awesome! I’ll be here if you need any assistance. Otherwise, Happy Learning!"
+__label__admingeneral,i'm fine.,"Awesome! I’ll be here if you need any assistance. Otherwise, Happy Learning!"
+__label__admingeneral,i'm alright.,"Awesome! I’ll be here if you need any assistance. Otherwise, Happy Learning!"
+__label__admingeneral,i don't require assistance.,"Awesome! I’ll be here if you need any assistance. Otherwise, Happy Learning!"
+__label__admingeneral,yes i need help.,How can we help you?
+__label__admingeneral,i need help.,How can we help you?
+__label__admingeneral,i need some assistance.,How can we help you?
+__label__admingeneral,i need you to guide me.,How can we help you?
+__label__admingeneral,yes i need assistance.,How can we help you?
+__label__adminconsultation,yes i want to meet the mentor.,Thank you. We will have the Learning Associate to contact you soon.
+__label__adminconsultation,i want to meet my mentor.,Thank you. We will have the Learning Associate to contact you soon.
+__label__adminconsultation,can i arrange a meeting with my mentor?,Thank you. We will have the Learning Associate to contact you soon.
+__label__adminconsultation,is it possible to meet my mentor?,Thank you. We will have the Learning Associate to contact you soon.
+__label__admingeneral,how do i read the timetable?,Here is how you read your timetable.
+__label__admingeneral,can you teach me how to read the timetable?,Here is how you read your timetable.
+__label__admingeneral,i want to learn how to read the timetable.,Here is how you read your timetable.
+__label__admingeneral,how to read the timetable?,Here is how you read your timetable.
+__label__admingeneral,can i ask how to read the timetable?,Here is how you read your timetable.
+__label__admingeneral,how to interpret the timetable?,Here is how you read your timetable.
+__label__admingeneral,how does the attendance system work?,Here is how we take attendance.
+__label__admingeneral,how is my attendance recorded?,Here is how we take attendance.
+__label__admingeneral,how do we take attendance?,Here is how we take attendance.
+__label__admingeneral,how does the attendance work?,Here is how we take attendance.
+__label__adminconsultation,when can i contact my mentor?,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,when is my mentor free?,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,what time is my mentor available?,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,when is my mentor available?,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,is my mentor available now?,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,how do i contact my mentor for online support?,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,how do i approach my mentor online?,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,where can i approach my mentor online?,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,how do i approach my mentor for online help?,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,i need online help from my mentor.,You can contact your mentor through email between 9 am to 7pm.
+__label__adminconsultation,what is my mentor's email address?,"You can contact your mentor through the following channels:
+Email: sm_mentor@lithan.com
+Phone: 6324 9730"
+__label__adminconsultation,email address for mentor.,"You can contact your mentor through the following channels:
+Email: sm_mentor@lithan.com
+Phone: 6324 9731"
+__label__adminconsultation,mentor's email address.,"You can contact your mentor through the following channels:
+Email: sm_mentor@lithan.com
+Phone: 6324 9732"
+__label__progress,i am having an issue in accessing the e-content in lms.,"Thank you. We will have your Learning Associate to contact you soon. 
+Alternatively, you may email your Learning Associate to have them investigate this matter. Your Learning Associate (sm_LA@lithan.com)"
+__label__progress,i have issues accessing e-content in lms.,"Thank you. We will have your Learning Associate to contact you soon. 
+Alternatively, you may email your Learning Associate to have them investigate this matter. Your Learning Associate (sm_LA@lithan.com)"
+__label__progress,i have issues accessing the content in lms.,"Thank you. We will have your Learning Associate to contact you soon. 
+Alternatively, you may email your Learning Associate to have them investigate this matter. Your Learning Associate (sm_LA@lithan.com)"
+__label__progress,i have problems accessing the content in lms.,"Thank you. We will have your Learning Associate to contact you soon. 
+Alternatively, you may email your Learning Associate to have them investigate this matter. Your Learning Associate (sm_LA@lithan.com)"
+__label__progress,i am facing access problems for the content in lms.,"Thank you. We will have your Learning Associate to contact you soon. 
+Alternatively, you may email your Learning Associate to have them investigate this matter. Your Learning Associate (sm_LA@lithan.com)"
+__label__progress,i am facing problems with accessing the e-content in lms.,"Thank you. We will have your Learning Associate to contact you soon. 
+Alternatively, you may email your Learning Associate to have them investigate this matter. Your Learning Associate (sm_LA@lithan.com)"
+__label__progress,i am having an issue in accessing the materials in lms.,"Thank you. We will have your Learning Associate to contact you soon. 
+Alternatively, you may email your Learning Associate to have them investigate this matter. Your Learning Associate (sm_LA@lithan.com)"
+__label__progress,i am having difficulty in understanding the materials.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,i find it difficult to understand the materials.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,i find it difficult to understand the e-content.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,the materials are too difficult to understand.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,the e-content are too hard to understand.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,i find it hard to understand the materials.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,i find it hard to understand the e-contents.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,i am having difficulty in understanding the e-content.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,i am having difficulty in understanding the course content.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,i think its very hard to understand the course content.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,i need help to understand the e-contents.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,i need help to understand the materials.,Thank you. Please make note of your issues and clarify them during the coming flipped class with your Instructor.
+__label__progress,is it compulsory to complete the elearning?,"Yes, without completing the e-learning you won’t be able to understand the concepts and fail to appear for formative assessment."
+__label__progress,is it mandatory to complete the elearning?,"Yes, without completing the e-learning you won’t be able to understand the concepts and fail to appear for formative assessment."
+__label__progress,is it neccessary to complete the elearning?,"Yes, without completing the e-learning you won’t be able to understand the concepts and fail to appear for formative assessment."
+__label__progress,is it compulsory to finish the elearning?,"Yes, without completing the e-learning you won’t be able to understand the concepts and fail to appear for formative assessment."
+__label__progress,do we need to finish the elearning?,"Yes, without completing the e-learning you won’t be able to understand the concepts and fail to appear for formative assessment."
+__label__progress,do we need to complete the elearning?,"Yes, without completing the e-learning you won’t be able to understand the concepts and fail to appear for formative assessment."
+__label__progress,when is the deadline for elearning?,You need to complete your eLearning by {eldate}
+__label__progress,when is elearning's deadline?,You need to complete your eLearning by {eldate}
+__label__progress,what is elearning's due date?,You need to complete your eLearning by {eldate}
+__label__progress,what is the penalty for not completing elearning on time?,You will not be able to understand the topic in the IUs and not be able to perform MCQ and Assignment.
+__label__progress,what will happen if i do not complete elearning on time?,You will not be able to understand the topic in the IUs and not be able to perform MCQ and Assignment.
+__label__progress,when do i have to complete elearning by?,You will not be able to understand the topic in the IUs and not be able to perform MCQ and Assignment.
+__label__progress,what if i do not complete the elearning on time?,You will not be able to understand the topic in the IUs and not be able to perform MCQ and Assignment.
+__label__progress,i have no time to finish my mcq.,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__progress,i ran out of time to finish my mcq.,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__progress,i no time to finish mcq.,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__progress,i do not have time to complete my mcq.,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__progress,how many times can i attempt the mcq?,You have a maximum of 4 attempts for each of the MCQ question.
+__label__progress,what do i need to do?,Please make note of your queries related to subject difficulties and our Instructor will respond to you. 
+__label__progress,what should i do?,Please make note of your queries related to subject difficulties and our Instructor will respond to you. 
+__label__progress,do we need to finish the mcq?,You need to complete your MCQs by {mcqdate}
+__label__progress,do we need to complete the mcq?,You need to complete your MCQs by {mcqdate}
+__label__progress,when is the deadline for mcq?,You need to complete your MCQs by {mcqdate}
+__label__progress,when is mcq's deadline?,You need to complete your MCQs by {mcqdate}
+__label__progress,what is mcq's due date?,You need to complete your MCQs by {mcqdate}
+__label__progress,when do i have to complete the mcq by?,You need to complete your MCQs by {mcqdate}
+__label__progress,what if i do not complete the mcq on the time?,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__progress,what is the penalty for not completing mcq on time?,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__progress,what will happen if i do not complete mcq on time?,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__progress,when do i have to complete mcq by?,You need to complete your MCQs by {mcqdate}
+__label__progress,what if i do not complete the mcq on time?,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__progress,what if i do not attempt the mcq?,You will not be able to understand the concepts and fail to appear for formative assessment.
+__label__progress,what will happen if i don't do the mcq?,You will not be able to understand the concepts and fail to appear for formative assessment.
+__label__progress,if i don't attempt the mcq what will happen?,You will not be able to understand the concepts and fail to appear for formative assessment.
+__label__progress,if i don't do the mcq what is the penalty?,You will not be able to understand the concepts and fail to appear for formative assessment.
+__label__progress,if i don't try the mcq what happens?,You will not be able to understand the concepts and fail to appear for formative assessment.
+__label__progress,is my mcq marked?,"Yes, once you submit your MCQs, you can see your score immediately."
+__label__progress,will my mcq be marked?,"Yes, once you submit your MCQs, you can see your score immediately."
+__label__progress,is my mcq graded?,"Yes, once you submit your MCQs, you can see your score immediately."
+__label__progress,is the mcq graded?,"Yes, once you submit your MCQs, you can see your score immediately."
+__label__progress,will the mcq be marked?,"Yes, once you submit your MCQs, you can see your score immediately."
+__label__progress,is there is any marking for mcq?,"Yes, once you submit your MCQs, you can see your score immediately."
+__label__progress,where can i see my progress?,You may able to see your progress in LMS under the “Progress” tab.
+__label__progress,how can i see my progress?,You may able to see your progress in LMS under the “Progress” tab.
+__label__progress,where to check my progress?,You may able to see your progress in LMS under the “Progress” tab.
+__label__ebook,what is the site to access my ebook?,Please go to https://skillpipe.com and login with your email.
+__label__ebook,where can i access my ebook?,Please go to https://skillpipe.com and login with your email.
+__label__ebook,what is the website for ebook?,Please go to https://skillpipe.com and login with your email.
+__label__ebook,what website to go to to access ebook?,Please go to https://skillpipe.com and login with your email.
+__label__ebook,can i download or print the ebook?,You can either print or print as PDF to read your book offline.
+__label__ebook,is it possible to download the ebook?,You can either print or print as PDF to read your book offline.
+__label__ebook,is it possible to print the ebook?,You can either print or print as PDF to read your book offline.
+__label__ebook,where do i find a hard copy of ebook?,"No, you can only print out yourself."
+__label__ebook,do you have a hard copy of the ebook?,"No, you can only print out yourself."
+__label__nextstep,what is the next step?,Please do {computational field}
+__label__nextstep,what do i do next?,Please do {computational field}
+__label__nextstep,what is my next step?,Please do {computational field}
+__label__fclass,when is my flipped class?,Your Flipped Class is on the {fcdate} from 7pm to 10pm. Please refer to the class schedule in LMS/ given to you.
+__label__fclass,what time is my flipped class?,Your Flipped Class is on the {fcdate} from 7pm to 10pm. Please refer to the class schedule in LMS/ given to you.
+__label__fclass,what should i prepare for my flipped class?,Prepare your question for your flipped class. 
+__label__fclass,what should i do before my flipped class?,Prepare your question for your flipped class. 
+__label__fclass,how to i prepare for my flipped class?,Prepare your question for your flipped class. 
+__label__fclass,what do i do if i cannot attend the flipped class?,It important to attend the Flipped Class otherwise you must submit leave of absence form (LOA) with supporting documents and arrange for make-up attendance with your Learning Associate. 
+__label__fclass,who should i approach if i cannot attend my flipped class?,It important to attend the Flipped Class otherwise you must submit leave of absence form (LOA) with supporting documents and arrange for make-up attendance with your Learning Associate. 
+__label__fclass,will there be a make-up flipped class?,"Unfortunately, there is no make-up Flipped Class."
+__label__fclass,make-up flipped class.,"Unfortunately, there is no make-up Flipped Class."
+__label__fclass,is there any make-up flipped class?,"Unfortunately, there is no make-up Flipped Class."
+__label__fclass,do i have to submit my assignment during flipped class?,You can submit after the flipped class. 
+__label__fclass,is it necessary to submit my assignment during flipped class?,You can submit after the flipped class. 
+__label__fclass,flipped class need to submit assignment?,You can submit after the flipped class. 
+__label__aprogress,i do not have time to complete my assignment.,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__aprogress,no time to complete my assignment.,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__aprogress,i have no time to finish my assignment.,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__aprogress,assignments can upload how many times?,"Once your grading is done you won’t be able to upload your assignment. So, complete and review your assignment carefully before you upload."
+__label__aprogress,who will mark my assignment?,The instructor will grade your assignment
+__label__aprogress,who is my assignment's marker?,The instructor will grade your assignment
+__label__aprogress,who marks my assignment?,The instructor will grade your assignment
+__label__aprogress,how many times can i upload the assignments?,"Once your grading is done you won’t be able to upload your assignment. So, complete and review your assignment carefully before you upload."
+__label__aprogress,who will score my assignment?,The instructor will grade your assignment
+__label__aprogress,when will my assignment score be released?,"Once you submit your assignments, get in touch with your instructor."
+__label__aprogress,when can i see my assignment score?,"Once you submit your assignments, get in touch with your instructor."
+__label__aprogress,when do i have to complete my assignments by?,You need to complete your assignment by {asdate}
+__label__aprogress,what is the deadline for my assignments?,You need to complete your assignment by {asdate}
+__label__aprogress,what is the deadline for my assignment?,You need to complete your assignment by {asdate}
+__label__aprogress,when is my assignment due?,You need to complete your assignment by {asdate}
+__label__aprogress,what is the due date for my assignments?,You need to complete your assignment by {asdate}
+__label__aprogress,when is the deadline for my assignment?,You need to complete your assignment by {asdate}
+__label__aprogress,what if i do not complete the assignments on the time?,It is important to complete your assignment on time else you will be failed to appear for formative assessment.
+__label__aprogress,what will happen if i don't complete my assignments by deadline?,It is important to complete your assignment on time else you will be failed to appear for formative assessment.
+__label__aprogress,what is the punishment if i don't complete my assignments by due date?,It is important to complete your assignment on time else you will be failed to appear for formative assessment.
+__label__aprogress,what is the punishment if i don't complete my assignments by deadline?,It is important to complete your assignment on time else you will be failed to appear for formative assessment.
+__label__aprogress,what is the penalty if i don't finish my assignment by deadline?,It is important to complete your assignment on time else you will be failed to appear for formative assessment.
+__label__aprogress,where can i see my assignment's progress?,You may able to see your progress in LMS under the “Progress” tab.
+__label__aprogress,what if i do not attempt the assignments?,"Your commitment is required as you are needed to complete the formative assessments i.e. MCQ and Assignments. Else, you will not be eligible to take the summative assessment."
+__label__aprogress,where do i see my assignment progress?,You may able to see your progress in LMS under the “Progress” tab.
+__label__aprogress,what should i do if i did not pass assignment?,Please make note of your queries related to subject difficulties and get in touch with our Instructor. 
+__label__aprogress,what should i do if i fail my assignment?,Please make note of your queries related to subject difficulties and get in touch with our Instructor. 
+__label__aprogress,what to do if i fail my assignment?,Please make note of your queries related to subject difficulties and get in touch with our Instructor. 
+__label__aprogress,who can i ask to reset my assignment?,You need to approach to your instructor for his guidance.
+__label__aprogress,who can reset my assignment?,You need to approach to your instructor for his guidance.
+__label__aprogress,who can i approach to reset my assignment?,You need to approach to your instructor for his guidance.
+__label__access,why can't i log on to learn-on-demand?,Please ensure you log into the correct Learn-On-Demand site: https://lithan.learnondemand.net 
+__label__access,why cannot log into learn-on-demand?,Please ensure you log into the correct Learn-On-Demand site: https://lithan.learnondemand.net 
+__label__access,why i can’t log into the learn-on-demand?,Please ensure you log into the correct Learn-On-Demand site: https://lithan.learnondemand.net 
+__label__access,where to upload lab assignment?,"Please ensure you are logged in to https://courses.lithan.com
+Go to the respective IU Assignment section and select the Lab Submission Tab and upload your assignment."
+__label__access,how to upload lab assignment?,"Please ensure you are logged in to https://courses.lithan.com
+Go to the respective IU Assignment section and select the Lab Submission Tab and upload your assignment."
+__label__access,where do i upload the lab assignment?,"Please ensure you are logged in to https://courses.lithan.com
+Go to the respective IU Assignment section and select the Lab Submission Tab and upload your assignment."
+__label__access,why is there no upload button in the lms?,"Try to refresh the browser, if your assignment was graded, please contact your mentor @ sm_mentor@lithan.com"
+__label__access,why i cannot launch the lab?,"Ensure that you do not have any active Lab running in the background, log out and in again, if the problem persist, try using another browser eg. Chrome or FireFox."
+__label__access,i have problems launching the lab.,"Ensure that you do not have any active Lab running in the background, log out and in again, if the problem persist, try using another browser eg. Chrome or FireFox."
+__label__access,where do i find the template?,"Please ensure you are logged in to https://courses.lithan.com
+Go to the respective IU Assignment section and select the Lab Template Tab and select the Download Link "
+__label__access,where is the template?,"Please ensure you are logged in to https://courses.lithan.com
+Go to the respective IU Assignment section and select the Lab Template Tab and select the Download Link "
+__label__access,why can’t i see the upload button in the lms?,"Try to refresh the browser, if your assignment was graded, please contact your mentor @ sm_mentor@lithan.com"
+__label__access,why can’t i launch the lab?,"Ensure that you do not have any active Lab running in the background, log out and in again, if the problem persist, try using another browser eg. Chrome or FireFox."
+__label__access,where do i get the template?,"Please ensure you are logged in to https://courses.lithan.com
+Go to the respective IU Assignment section and select the Lab Template Tab and select the Download Link "
+__label_mentoring,is it mandatory to attend mentoring session?,"It’s not compulsory, but you are encouraged to join the session if you need any assistance in you Lab assignments."
+__label_mentoring,do i really have to attend the mentoring session?,"It’s not compulsory, but you are encouraged to join the session if you need any assistance in you Lab assignments."
+__label_mentoring,is it necessary to attend the mentoring session?,"It’s not compulsory, but you are encouraged to join the session if you need any assistance in you Lab assignments."
+__label_mentoring,is it compulsory to attend the mentoring session?,"It’s not compulsory, but you are encouraged to join the session if you need any assistance in you Lab assignments."
+__label_mentoring,i am not able to attend the mentoring session.,"If your progress is on track, you can skip your mentoring session."
+__label_mentoring,i cannot attend the mentoring session.,"If your progress is on track, you can skip your mentoring session."
+__label_mentoring,i cannot make it to the mentoring session.,"If your progress is on track, you can skip your mentoring session."
+__label_mentoring,how will be attendnace be recorded for mentoring session?,Attendance is captured via. Biomatrix system for mentoring session.
+__label_mentoring,how does the attendance work for mentoring session?,Attendance is captured via. Biomatrix system for mentoring session.
+__label_mentoring,how is my attendance recorded for the mentoring session?,Attendance is captured via. Biomatrix system for mentoring session.
+__label_mentoring,can i skip the mentoring session if i have no problems with my assignment?,"Yes, you could skip the mentoring session, however, these are the only support session available for you, do make full use of it.
+"
+__label_mentoring,can i skip the mentoring session?,"Yes, you could skip the mentoring session, however, these are the only support session available for you, do make full use of it.
+"
+__label_mentoring,can i skip the mentoring session if i have completed my assignment in advance?,"Well done, you’re the Ace student for this batch, keep up the good work, do remember to provide us with your valuable feedback via our Learning Journey survey form in the LMS."
+__label__adminconsultation,what is my mentor's phone number?,"You can contact your mentor through the following channels:
+Email: sm_mentor@lithan.com
+Phone: 6324 9730"
+__label__adminconsultation,mentor's phone number.,"You can contact your mentor through the following channels:
+Email: sm_mentor@lithan.com
+Phone: 6324 9731"
+__label__adminconsultation,mentor's contact number.,"You can contact your mentor through the following channels:
+Email: sm_mentor@lithan.com
+Phone: 6324 9732"
+__label__adminconsultation,mentor's handphone number.,"You can contact your mentor through the following channels:
+Email: sm_mentor@lithan.com
+Phone: 6324 9733"
+__label__adminconsultation,what is my mentor's handphone number?,"You can contact your mentor through the following channels:
+Email: sm_mentor@lithan.com
+Phone: 6324 9734"
