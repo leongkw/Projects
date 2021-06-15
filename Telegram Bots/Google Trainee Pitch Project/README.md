@@ -15,3 +15,6 @@ For this contest, the following has been created:
 # Demo Videos
 - Virtual Beauty Assistant - https://bit.ly/3iEFx3T
 - Appointment Slots Workflow - https://bit.ly/3gmHGzA
+
+# Slide Deck
+- Goophora - https://bit.ly/3xoEA3C
